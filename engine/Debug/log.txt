@@ -1,0 +1,9 @@
+start
+open file(read): engine
+mode:breaker
+close file: engine
+engine:
+[on][off:dif:4933 st:1] [clear stack]
+open file(write): engine
+close file: engine
+exit value:1

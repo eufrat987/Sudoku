@@ -1,0 +1,715 @@
+start
+open file(read): engine
+mode:generator
+close file: engine
+-[[generator on]]-
+engine:
+[on][off:dif:44 st:1] [clear stack]
+engine:
+[on][off:dif:51 st:1] [clear stack]
+engine:
+[on][off:dif:49 st:1] [clear stack]
+engine:
+[on][off:dif:55 st:1] [clear stack]
+engine:
+[on][off:dif:46 st:1] [clear stack]
+engine:
+[on][off:dif:39 st:1] [clear stack]
+engine:
+[on][off:dif:45 st:1] [clear stack]
+engine:
+[on][off:dif:42 st:1] [clear stack]
+engine:
+[on][off:dif:81 st:1] [clear stack]
+engine:
+[on][off:dif:34 st:1] [clear stack]
+engine:
+[on][off:dif:31 st:1] [clear stack]
+engine:
+[on][off:dif:31 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:94 st:1] [clear stack]
+engine:
+[on][off:dif:25 st:1] [clear stack]
+engine:
+[on][off:dif:23 st:1] [clear stack]
+engine:
+[on][off:dif:25 st:1] [clear stack]
+engine:
+[on][off:dif:27 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:22 st:1] [clear stack]
+engine:
+[on][off:dif:25 st:1] [clear stack]
+engine:
+[on][off:dif:30 st:1] [clear stack]
+engine:
+[on][off:dif:30 st:1] [clear stack]
+engine:
+[on][off:dif:14 st:1] [clear stack]
+engine:
+[on][off:dif:19 st:1] [clear stack]
+engine:
+[on][off:dif:11 st:1] [clear stack]
+engine:
+[on][off:dif:8 st:1] [clear stack]
+engine:
+[on][off:dif:8 st:1] [clear stack]
+engine:
+[on][off:dif:7 st:1] [clear stack]
+engine:
+[on][off:dif:8 st:1] [clear stack]
+engine:
+[on][off:dif:7 st:1] [clear stack]
+engine:
+[on][off:dif:7 st:1] [clear stack]
+engine:
+[on][off:dif:7 st:1] [clear stack]
+engine:
+[on][off:dif:6 st:1] [clear stack]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:6 st:1] [clear stack]
+engine:
+[on][off:dif:5 st:1] [clear stack]
+engine:
+[on][off:dif:4 st:-5]
+engine:
+[on][off:dif:5 st:1] [clear stack]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:45 st:1] [clear stack]
+engine:
+[on][off:dif:45 st:1] [clear stack]
+engine:
+[on][off:dif:45 st:1] [clear stack]
+engine:
+[on][off:dif:46 st:1] [clear stack]
+engine:
+[on][off:dif:60 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:38 st:1] [clear stack]
+engine:
+[on][off:dif:37 st:1] [clear stack]
+engine:
+[on][off:dif:38 st:1] [clear stack]
+engine:
+[on][off:dif:40 st:1] [clear stack]
+engine:
+[on][off:dif:37 st:1] [clear stack]
+engine:
+[on][off:dif:30 st:1] [clear stack]
+engine:
+[on][off:dif:36 st:1] [clear stack]
+engine:
+[on][off:dif:28 st:1] [clear stack]
+engine:
+[on][off:dif:36 st:1] [clear stack]
+engine:
+[on][off:dif:26 st:1] [clear stack]
+engine:
+[on][off:dif:27 st:1] [clear stack]
+engine:
+[on][off:dif:26 st:1] [clear stack]
+engine:
+[on][off:dif:36 st:1] [clear stack]
+engine:
+[on][off:dif:18 st:1] [clear stack]
+engine:
+[on][off:dif:16 st:1] [clear stack]
+engine:
+[on][off:dif:22 st:1] [clear stack]
+engine:
+[on][off:dif:21 st:1] [clear stack]
+engine:
+[on][off:dif:13 st:1] [clear stack]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:9 st:1] [clear stack]
+engine:
+[on][off:dif:915 st:-5]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:908 st:-5]
+engine:
+[on][off:dif:9 st:1] [clear stack]
+engine:
+[on][off:dif:480 st:-5]
+engine:
+[on][off:dif:209 st:-5]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:726 st:-5]
+engine:
+[on][off:dif:9 st:1] [clear stack]
+engine:
+[on][off:dif:21 st:1] [clear stack]
+engine:
+[on][off:dif:12 st:1] [clear stack]
+engine:
+[on][off:dif:10 st:1] [clear stack]
+engine:
+[on][off:dif:110 st:-5]
+engine:
+[on][off:dif:7 st:1] [clear stack]
+engine:
+[on][off:dif:6 st:1] [clear stack]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:1 st:-5]
+engine:
+[on][off:dif:4 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:44 st:1] [clear stack]
+engine:
+[on][off:dif:54 st:1] [clear stack]
+engine:
+[on][off:dif:44 st:1] [clear stack]
+engine:
+[on][off:dif:41 st:1] [clear stack]
+engine:
+[on][off:dif:42 st:1] [clear stack]
+engine:
+[on][off:dif:39 st:1] [clear stack]
+engine:
+[on][off:dif:42 st:1] [clear stack]
+engine:
+[on][off:dif:47 st:1] [clear stack]
+engine:
+[on][off:dif:71 st:1] [clear stack]
+engine:
+[on][off:dif:37 st:1] [clear stack]
+engine:
+[on][off:dif:53 st:1] [clear stack]
+engine:
+[on][off:dif:35 st:1] [clear stack]
+engine:
+[on][off:dif:33 st:1] [clear stack]
+engine:
+[on][off:dif:37 st:1] [clear stack]
+engine:
+[on][off:dif:29 st:1] [clear stack]
+engine:
+[on][off:dif:31 st:1] [clear stack]
+engine:
+[on][off:dif:26 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:20 st:1] [clear stack]
+engine:
+[on][off:dif:18 st:1] [clear stack]
+engine:
+[on][off:dif:24 st:1] [clear stack]
+engine:
+[on][off:dif:14 st:1] [clear stack]
+engine:
+[on][off:dif:13 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:13 st:1] [clear stack]
+engine:
+[on][off:dif:35 st:1] [clear stack]
+engine:
+[on][off:dif:90 st:1] [clear stack]
+engine:
+[on][off:dif:204 st:1] [clear stack]
+engine:
+[on][off:dif:229 st:-5]
+engine:
+[on][off:dif:183 st:-5]
+engine:
+[on][off:dif:204 st:1] [clear stack]
+engine:
+[on][off:dif:262 st:1] [clear stack]
+engine:
+[on][off:dif:10 st:-5]
+engine:
+[on][off:dif:34 st:-5]
+engine:
+[on][off:dif:124 st:-5]
+engine:
+[on][off:dif:19 st:1] [clear stack]
+engine:
+[on][off:dif:19 st:1] [clear stack]
+engine:
+[on][off:dif:8 st:1] [clear stack]
+engine:
+[on][off:dif:8 st:1] [clear stack]
+engine:
+[on][off:dif:8 st:1] [clear stack]
+engine:
+[on][off:dif:1 st:-5]
+engine:
+[on][off:dif:4 st:1] [clear stack]
+engine:
+[on][off:dif:4 st:1] [clear stack]
+engine:
+[on][off:dif:4 st:1] [clear stack]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:4 st:1] [clear stack]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:1 st:1]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:-5]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:0 st:0]
+engine:
+[on][off:dif:55 st:1] [clear stack]
+engine:
+[on][off:dif:43 st:1] [clear stack]
+engine:
+[on][off:dif:51 st:1] [clear stack]
+engine:
+[on][off:dif:44 st:1] [clear stack]
+engine:
+[on][off:dif:87 st:1] [clear stack]
+engine:
+[on][off:dif:40 st:1] [clear stack]
+engine:
+[on][off:dif:47 st:1] [clear stack]
+engine:
+[on][off:dif:46 st:1] [clear stack]
+engine:
+[on][off:dif:38 st:1] [clear stack]
+engine:
+[on][off:dif:35 st:1] [clear stack]
+engine:
+[on][off:dif:44 st:1] [clear stack]
+engine:
+[on][off:dif:30 st:1] [clear stack]
+engine:
+[on][off:dif:32 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:30 st:1] [clear stack]
+engine:
+[on][off:dif:41 st:1] [clear stack]
+engine:
+[on][off:dif:30 st:1] [clear stack]
+engine:
+[on][off:dif:37 st:1] [clear stack]
+engine:
+[on][off:dif:24 st:1] [clear stack]
+engine:
+[on][off:dif:26 st:1] [clear stack]
+engine:
+[on][off:dif:19 st:1] [clear stack]
+engine:
+[on][off:dif:19 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:19 st:1] [clear stack]
+engine:
+[on][off:dif:22 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:22 st:1] [clear stack]
+engine:
+[on][off:dif:16 st:1] [clear stack]
+engine:
+[on][off:dif:8 st:1] [clear stack]
+engine:
+[on][off:dif:28 st:1] [clear stack]
+engine:
+[on][off:dif:30 st:0]
+-[[generator off]]-
+open file(write): engine
+close file: engine
+exit value:0

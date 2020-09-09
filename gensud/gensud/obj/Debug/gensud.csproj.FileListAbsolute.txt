@@ -1,0 +1,12 @@
+C:\Users\dzieciaki\Desktop\gensud\gensud\bin\Debug\gensud.exe.config
+C:\Users\dzieciaki\Desktop\gensud\gensud\bin\Debug\gensud.exe
+C:\Users\dzieciaki\Desktop\gensud\gensud\bin\Debug\gensud.pdb
+C:\Users\dzieciaki\Desktop\gensud\gensud\obj\Debug\gensud.csprojResolveAssemblyReference.cache
+C:\Users\dzieciaki\Desktop\gensud\gensud\obj\Debug\gensud.exe
+C:\Users\dzieciaki\Desktop\gensud\gensud\obj\Debug\gensud.pdb
+C:\Users\dzieciaki\Desktop\SUDOKU\gensud\gensud\bin\Debug\gensud.exe.config
+C:\Users\dzieciaki\Desktop\SUDOKU\gensud\gensud\obj\Debug\gensud.exe
+C:\Users\dzieciaki\Desktop\SUDOKU\gensud\gensud\obj\Debug\gensud.pdb
+C:\Users\dzieciaki\Desktop\SUDOKU\gensud\gensud\bin\Debug\gensud.exe
+C:\Users\dzieciaki\Desktop\SUDOKU\gensud\gensud\bin\Debug\gensud.pdb
+C:\Users\dzieciaki\Desktop\SUDOKU\gensud\gensud\obj\Debug\gensud.csprojResolveAssemblyReference.cache

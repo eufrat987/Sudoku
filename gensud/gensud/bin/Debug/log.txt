@@ -1,0 +1,81 @@
+start
+open file(read): engine
+mode:generator
+close file: engine
+-[[generator on]]-
+engine:
+[on][off:dif:44 st:1] [clear stack]
+engine:
+[on][off:dif:42 st:1] [clear stack]
+engine:
+[on][off:dif:59 st:1] [clear stack]
+engine:
+[on][off:dif:45 st:1] [clear stack]
+engine:
+[on][off:dif:42 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:58 st:1] [clear stack]
+engine:
+[on][off:dif:38 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:39 st:1] [clear stack]
+engine:
+[on][off:dif:37 st:1] [clear stack]
+engine:
+[on][off:dif:35 st:1] [clear stack]
+engine:
+[on][off:dif:39 st:1] [clear stack]
+engine:
+[on][off:dif:34 st:1] [clear stack]
+engine:
+[on][off:dif:32 st:1] [clear stack]
+engine:
+[on][off:dif:30 st:1] [clear stack]
+engine:
+[on][off:dif:1001 st:-1] [clear stack]
+engine:
+[on][off:dif:23 st:1] [clear stack]
+engine:
+[on][off:dif:550 st:1] [clear stack]
+engine:
+[on][off:dif:65 st:-5]
+engine:
+[on][off:dif:65 st:-5]
+engine:
+[on][off:dif:65 st:-5]
+engine:
+[on][off:dif:550 st:1] [clear stack]
+engine:
+[on][off:dif:66 st:1] [clear stack]
+engine:
+[on][off:dif:190 st:1] [clear stack]
+engine:
+[on][off:dif:22 st:1] [clear stack]
+engine:
+[on][off:dif:89 st:1] [clear stack]
+engine:
+[on][off:dif:400 st:1] [clear stack]
+engine:
+[on][off:dif:23 st:1] [clear stack]
+engine:
+[on][off:dif:203 st:1] [clear stack]
+engine:
+[on][off:dif:102 st:1] [clear stack]
+engine:
+[on][off:dif:38 st:1] [clear stack]
+engine:
+[on][off:dif:12 st:-5]
+engine:
+[on][off:dif:8 st:-5]
+engine:
+[on][off:dif:6 st:-5]
+engine:
+[on][off:dif:29 st:0]
+-[[generator off]]-
+open file(write): engine
+close file: engine
+exit value:0

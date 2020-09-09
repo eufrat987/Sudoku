@@ -1,0 +1,6 @@
+﻿  engine.cpp
+c:\users\dzieciaki\desktop\engine\engine\engine.cpp(429): warning C4018: '<': signed/unsigned mismatch
+c:\users\dzieciaki\desktop\engine\engine\engine.cpp(476): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dzieciaki\desktop\engine\engine\engine.cpp(477): warning C4390: ';': empty controlled statement found; is this the intent?
+  engine.vcxproj -> C:\Users\dzieciaki\Desktop\engine\Debug\engine.exe
+  engine.vcxproj -> C:\Users\dzieciaki\Desktop\engine\Debug\engine.pdb (Full PDB)

@@ -1,0 +1,7 @@
+start
+open file(read): engine
+mode:breaker
+close file: engine
+open file(write): engine
+close file: engine
+exit value:-1
